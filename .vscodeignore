@@ -2,7 +2,7 @@
 node_modules
 .eslintrc.json
 .gitignore
-.markdownlint.json
+.remarkrc
 default-config.json
 extension.js
 generate-config-schema.js
